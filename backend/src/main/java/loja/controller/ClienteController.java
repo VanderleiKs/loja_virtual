@@ -1,4 +1,4 @@
-package loja.loja.controller;
+package loja.controller;
 
 import java.util.List;
 
@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import loja.loja.database.repositories.ClienteRepository;
-import loja.loja.model.entities.Cliente;
+import loja.repositories.ClienteRepository;
+import loja.model.entities.Cliente;
 
 @RestController
 @RequestMapping(value = "/cliente")

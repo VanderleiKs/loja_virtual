@@ -1,4 +1,4 @@
-package loja.loja.model.entities;
+package loja.model.entities;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -8,7 +8,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.OneToMany;
 
-import loja.loja.model.enuns.TipoCliente;
+import loja.model.enuns.TipoCliente;
 
 @Entity
 public class Cliente {

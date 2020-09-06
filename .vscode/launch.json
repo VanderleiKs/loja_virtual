@@ -2,11 +2,17 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - LojaApplication",
+            "request": "launch",
+            "mainClass": "loja.LojaApplication"
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-LojaApplication<loja>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
-            "mainClass": "loja.loja.LojaApplication",
+            "mainClass": "loja.LojaApplication",
             "projectName": "loja",
             "args": ""
         }

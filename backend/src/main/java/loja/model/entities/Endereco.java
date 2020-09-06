@@ -1,4 +1,4 @@
-package loja.loja.model.entities;
+package loja.model.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

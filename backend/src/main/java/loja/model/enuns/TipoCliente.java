@@ -1,4 +1,4 @@
-package loja.loja.model.enuns;
+package loja.model.enuns;
 
 public enum TipoCliente {
     

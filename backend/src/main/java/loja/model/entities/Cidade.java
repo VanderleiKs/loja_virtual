@@ -1,4 +1,4 @@
-package loja.loja.model.entities;
+package loja.model.entities;
 
 import java.util.ArrayList;
 import java.util.List;
